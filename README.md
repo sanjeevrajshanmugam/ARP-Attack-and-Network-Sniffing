@@ -26,17 +26,20 @@ Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
 
-![alt text](1.jpeg)
+![Screenshot 2024-10-07 155148](https://github.com/user-attachments/assets/7a50941b-3981-49d9-8815-2b451614c858)
+
 
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
-![alt text](2.png)
+![Screenshot 2024-10-07 155224](https://github.com/user-attachments/assets/5378a9bd-b66c-4457-9632-1f2b8e7f35b7)
+
 
 
  dsniff:In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
-![alt text](3.png)
+![Screenshot 2024-10-07 155307](https://github.com/user-attachments/assets/cbfcefb4-c2c6-411c-8b7b-5fbadca45d16)
+
 
 
 
@@ -46,13 +49,15 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![alt text](4.png)
+![Screenshot 2024-10-07 155320](https://github.com/user-attachments/assets/f467417b-d701-48ca-a8b8-64958c0c42a3)
+
 
 
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
-![alt text](5.png)
+![Screenshot 2024-10-07 155335](https://github.com/user-attachments/assets/1491a6b3-56f9-453b-9222-059627876768)
+
 
 
 ## RESULT:
